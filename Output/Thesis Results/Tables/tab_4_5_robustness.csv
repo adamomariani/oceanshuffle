@@ -1,0 +1,12 @@
+Statistic,All two-sided flows,Analysis sample (F $\geq$ 10k),Analysis sample without artefacts
+Two-sided flows,"3,756,165","2,480,157","2,447,576"
+Reconciled value (B USD),"12,876","12,872","12,820"
+Median D,0.368,0.281,0.281
+Value-weighted $D_w$,0.168,0.167,0.164
+Median S,-0.034,-0.001,-0.001
+Value-weighted $S_w$,-0.018,-0.016,-0.016
+Total G / total F (%),36.6,36.2,35.7
+$\epsilon^2$ year (%),0.25,0.07,0.07
+$\epsilon^2$ HS4 heading (%),2.72,2.06,1.80
+$\epsilon^2$ country pair $\times$ heading (%),32.2,37.6,37.4
+Relationships with $\pi \geq 0.5$ (%),2.24,3.03,3.03
