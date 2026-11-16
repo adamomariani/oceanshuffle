@@ -1,6 +1,6 @@
 <a href="https://colab.research.google.com/github/adamomariani/oceanshuffle/blob/main/OceanShuffle.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-# OceanShuffle
+# Analyzing Trade Discrepancies of Forest Products: OceanShuffle
 
 Code for the MSc thesis *Analyzing Trade Discrepancy of Forest Products Across Countries*. OceanShuffle builds a `year x exporter x importer x HS4` panel of forest-product trade (68 headings, HS chapters 44–49, 1995–2024) from the [Harvard Growth Lab trade dataset, v5](https://doi.org/10.7910/DVN/5NGVOB). It then uses this panel to reproduce every figure and table of the thesis, with one function per output. All data fetching and reading is done through DuckDB, and plotting through Matplotlib.
 
