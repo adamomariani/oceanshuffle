@@ -42,7 +42,7 @@ Table D.1 in the thesis (Appendix D) lists the functions and adjustable paramete
 Requires Python ≥ 3.10:
 
 ```bash
-pip install duckdb pandas numpy scipy scikit-learn matplotlib networkx
+pip install duckdb pandas numpy scipy scikit-learn matplotlib
 ```
 
 Export [notebook](https://colab.research.google.com/github/adamomariani/oceanshuffle/blob/main/OceanShuffle.ipynb) as python file (e.g. `oceanshuffle.py`), remove the import statement `from google.colab import drive`, and its code counterpart `drive.mount(...)`. Then set `DB_DIR` to the local folder containing the panel (fastest run, \~3min), merged database (\~1hr), or source directory with split raw files (slowest run, \~2hrs).
